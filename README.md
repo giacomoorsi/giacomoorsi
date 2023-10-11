@@ -1,13 +1,16 @@
 ### Hi there 👋 Nice to meet you, I'm Giacomo Orsi
 
 #### 🎓 Education
-MSc Computer Science - EPFL, Swiss Federal Institute of Technology  
-BSc Computer Science for Management - University of Bologna
+- MSc Computer Science - EPFL, Swiss Federal Institute of Technology. Focusing on machine learning, causality, large-scale data science
+- BSc Computer Science for Management - University of Bologna
 
 #### 👨‍💻 Experience
-Have a look at my LinkedIn profile!   
+- AIML intern at Apple (Jul 2023 - Sep 2023)
+- Student project researcher at [dlab](https://dlab.epfl.ch) in graph machine learning (Sep 2022 - Feb 2023)
+- Software Engineer intern at AWS (Jul 2022 - Sep 2022)
 
-[<img width="300px" src="linkedin-profile.png" />](https://linkedin.com/in/giacomoorsi/)
+
+[My LinkedIn profile](https://linkedin.com/in/giacomoorsi/)
 
 
 #### 📈 Projects in data science and machine learning
