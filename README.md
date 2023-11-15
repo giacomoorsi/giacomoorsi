@@ -5,6 +5,7 @@
 - BSc Computer Science for Management - University of Bologna
 
 #### 👨‍💻 Experience
+- ML Trainee at European Central Bank (Nov 2023 - Jan 2024)
 - AIML intern at Apple (Jul 2023 - Sep 2023)
 - Student project researcher at [dlab](https://dlab.epfl.ch) in graph machine learning (Sep 2022 - Feb 2023)
 - Software Engineer intern at AWS (Jul 2022 - Sep 2022)
