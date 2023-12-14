@@ -15,6 +15,7 @@
 
 
 #### 📈 Projects in data science and machine learning
+- [**OpenRitardi - Italian train delays visualization**](https://github.com/giacomoorsi/OpenRitardi): OpenRitardi (Italian for *OpenDelays*) is the first visualization tool of train delays in Italy. You can see the performance of each station and train, and see where the railway service can be improved. The project showcases how open data allows accountability and improves quality of service. OpenRitardi is a website published at [openritardi.it](https://www.openritardi.it).
 - [**Twitter Hateful Users detection with Graph Machine Learning**](https://github.com/giacomoorsi/twitter_hateful_users): graph machine learning models to detect hateful users on a Twitter graph where nodes are users and edges are retweets
 - [**Robust Journey Planner using Spark and Hadoop**](https://github.com/giacomoorsi/Swiss-Spark-Journey-Planner): Journey planning algorithm on Swiss railway data that is able to estimate the probability of success of a trip, analyzing terabytes of historical data on demand, using Spark and Hadoop. 
 - [**Deep Learning for patent novelty identification**](https://github.com/giacomoorsi/Detect-Novelty-Patent-Applications): Collaborated with the *Entrepreneurship and Technology Commercialization Lab (EPFL)* to design and develop a pipeline with a neural network that predicts whether a patent application will be approved by the USPTO
