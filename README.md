@@ -2,6 +2,7 @@
 
 #### 🎓 Education
 - MSc Computer Science - EPFL, Swiss Federal Institute of Technology. Focusing on machine learning, causality, large-scale data science
+  - Master's thesis at [MIT Senseable City Lab](https://senseable.mit.edu)
 - BSc Computer Science for Management - University of Bologna
 
 #### 👨‍💻 Experience
