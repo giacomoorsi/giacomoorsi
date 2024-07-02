@@ -1,5 +1,8 @@
 ### Hi there 👋 Nice to meet you, I'm Giacomo Orsi
 
+My personal website [giacomoorsi.github.io](https://giacomoorsi.github.io) and [my LinkedIn profile](https://linkedin.com/in/giacomoorsi/)
+ 
+
 #### 🎓 Education
 - MSc Computer Science - EPFL, Swiss Federal Institute of Technology. Focusing on machine learning, causality, large-scale data science
   - Master's thesis at [MIT Senseable City Lab](https://senseable.mit.edu)
@@ -10,9 +13,6 @@
 - AIML intern at Apple (Jul 2023 - Sep 2023)
 - Student project researcher at [dlab](https://dlab.epfl.ch) in graph machine learning (Sep 2022 - Feb 2023)
 - Software Engineer intern at AWS (Jul 2022 - Sep 2022)
-
-
-[My LinkedIn profile](https://linkedin.com/in/giacomoorsi/)
 
 
 #### 📈 Projects in data science and machine learning
